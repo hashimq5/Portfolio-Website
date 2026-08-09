@@ -1,67 +1,33 @@
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm <a href="https://yourwebsite.com">Hashim Ibrahim Qureshi</a> 👋</h1>
+<div align="center">
+  <h1>⚡ HASHIM IBRAHIM QURESHI ⚡</h1>
+  <p><b>Computer Science Scholar | Data Analyst | Tech for Social Good & Digital Agriculture</b></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=480&lines=Computer+Science+Undergraduate" alt="Typing SVG" />
-</p>
+  <!-- TYPING SVG EFFECT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Solving+Complex+Problems+at+the+Intersection+of+Tech+%26+Society;AI+Driven+Digital+Agriculture+%26+Smart+Farming;Data+Analytics+%7C+Web+Engineering+%7C+Strategic+Impact" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <a href="mailto:qureshih2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</p>
+  <br/><br/>
 
----
+  <!-- BADGES / CONTACT -->
+  <a href="mailto:qureshih2006@gmail.com"><img src="https://img.shields.io/badge/Email-qureshih2006%40gmail.com-00D2FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5FF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-<!-- ABOUT ME -->
-## 🚀 About Me
-
-- 🎓 **Education:** B.Sc. in Computer Science (2023–2026) at Jijamata Education Society *(CGPA: 8.44)*
-- 🌱 **Current Focus:** AI applications in digital agriculture and tech for social development
-- 🤝 **Community Service:** Active NSS volunteer driving local health, cleanliness, and awareness campaigns
-- 🎯 **Career Goal:** Leveraging tech, data analysis, and coordination skills to build impactful global initiatives
-- 💬 **Ask me about:** Web Development basics, Data Handling, and Community Operations
+<br/>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Skills & Tools
+### 💡 Executive Brief
 
-**Languages & Web Tech**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+> *"Technology is best when it brings people together and solves real-world human challenges."*
 
-**Data & Productivity**
-<p align="left">
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
+I am an upcoming **Computer Science Graduate (CGPA 8.44)** driven by a passion for scalable systems, high-accuracy data operations, and social technology initiatives. My focus centers on exploring **AI application in digital agriculture**, data analytics, and leading impactful community technology projects[cite: 1].
 
-**Core Competencies**
-`Data Analysis` • `Project Support & Coordination` • `Documentation & Reporting` • `Team Leadership`
-
----
-
-<!-- FEATURED PROJECT -->
-## 🌾 Featured Academic Project
-
-### **Crop Disease Detection System (Plantix App Study)**
-*Dec 2025 – Jan 2026*
-* Analyzed AI-driven mobile diagnosis tools, treatment recommendations, and real-time plant health monitoring systems.
-* Researched practical implementations of digital agriculture solutions to assist farmers and increase crop productivity.
-
----
-
-<!-- CERTIFICATIONS & VOLUNTEERING -->
-## 🏅 Experience & Certifications
-
-* 🤝 **NSS Volunteer** *(Jun 2023 – Dec 2025)*: Led and supported local community awareness campaigns and team operations.
-* 📜 **Data Entry Operator Certification** *(MFSskill | Grade A)*: Advanced proficiency in office operations, database accuracy, and documentation.
-
----
-
-<!-- PROFILE VISITS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=2E7D32&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+```yaml
+Degree: Bachelor of Science in Computer Science (2023 - 2026)[cite: 1]
+Institution: Jijamata Education Society | CGPA: 8.44 / 10[cite: 1]
+Specialization: Data Processing, Web Technologies & AgTech AI Solutions[cite: 1]
+Target Domain: Global Impact Operations, UNICEF Internships & Tech Innovation[cite: 1]
