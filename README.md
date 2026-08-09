@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://yourwebsite.com">Hashim Ibrahim Qureshi</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=480&lines=Computer+Science+Undergrad;Tech+for+Social+Impact;AI+in+Agriculture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=480&lines=Computer+Science+Undergrad" alt="Typing SVG" />
 </p>
 
 <p align="center">
