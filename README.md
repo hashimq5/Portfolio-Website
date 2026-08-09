@@ -6,7 +6,7 @@
 <!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Undergrad+%F0%9F%8E%93;AI+in+Agriculture+%26+Tech+for+Good+%F0%9F%8C%BE;Data+Analysis+%26+Web+Development+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate" alt="Typing SVG" />
   </a>
 </p>
 
